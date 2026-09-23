@@ -1,0 +1,195 @@
+.laba1 {
+    position: relative;
+}
+.area {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    margin-top: 80px;
+    margin-left: 700px;
+    background-color: rgba(210,70,255);
+}
+.first {
+    position: absolute;
+    font-family: 'Inter',Arial;
+    font-weight: 1000;
+    font-size: 50px;
+    margin-top: 105px;
+    margin-left: 875px;
+    color: rgba(255,255,255);
+}
+.Travis {
+    position: absolute;
+    font-family: 'Inter',Arial;
+    -webkit-text-stroke: 3px black;
+    color: transparent;
+    font-weight: 1000;
+    font-size: 40px;
+    margin-top: 162px;
+    margin-left: 705px;
+}
+.Scott {
+    position: absolute;
+    width: 13%;
+    height: auto;
+    margin-top: 235px;
+    margin-left: 825px;
+}
+.Iam {
+    position: absolute;
+    font-family: 'ComicSans',Arial;
+    font-weight: 1000;
+    font-size: 30px;
+    margin-top: 491px;
+    margin-left: 824px;
+    color: rgba(255,255,255);
+}
+.year {
+    position: absolute;
+    font-family: 'ComicSans',Arial;
+    font-weight: 1000;
+    font-size: 20px;
+    margin-top: 535px;
+    margin-left: 915px;
+    color: rgba(255,255,255);
+}
+.yellow {
+    position: absolute;
+    font-family: 'Inter',Arial;
+    font-weight: 1000;
+    font-size: 25px;
+    margin-top: 295px;
+    white-space: nowrap;
+    color: yellow;
+}
+.first_title { left: 555px; }
+.second_title { left: 1065px; }
+
+.icons_left {
+    position: absolute;
+    border-radius: 10%;
+    width: 21%;
+    height: auto;
+    left: 310px;
+}
+.astro1 { top: 628px; }
+.astro2 { top: 720px; }
+.astro3 { top: 812px; }
+.astro4 { top: 904px; }
+.highest_in_the_room { top: 996px; }
+.goosebumps { top: 1088px; }
+.scotts { top: 1180px; }
+
+.buttons_left {
+    position: absolute;
+    border: none;
+    background-color: transparent;
+    margin-left: 356px;
+    z-index: 1;
+    cursor: pointer;
+}
+.sicko_mode_b { width: 130.5px; height: 28px; top: 658px; }
+.stargasing_b { width: 121.609px; height: 28px; top: 749px; }
+._tint_b { width: 97.8125px; height: 28px; top: 840px; }
+.butterfly_effect_b { width: 225.906px; height: 28px; top: 931px; }
+.highest_in_the_room_b { width: 261.109px; height: 28px; top: 1022px; }
+.goosebumps_b { width: 146.516px; height: 28px; top: 1113px; }
+.the_scotts_b { width: 146.672px; height: 28px; top: 1204px; }
+
+.titles_left {
+    position: absolute;
+    font-family: 'Inter',Arial;
+    font-weight: 1000;
+    font-size: 23px;
+    margin-left: 356px;
+    white-space: nowrap;
+    color: rgba(255,255,255);
+}
+.sicko_mode { top: 634px; }
+.stargasing { top: 725px; }
+._tint { top: 816px; }
+.butterfly_effect { top: 907px; }
+.highest_in_the_room { top: 998px; }
+.goosebumps { top: 1089px; }
+.the_scotts { top: 1180px; }
+
+.icons_right {
+    position: absolute;
+    border-radius: 10%;
+    width: 21%;
+    height: auto;
+    left: 560px;
+}
+.god_country { top: 628px; }
+.parking_lot { top: 720px; }
+.nine_ou_two_one_ou { top: 812px; }
+.mafia { top: 904px; }
+.looove { top: 996px; }
+.dumbo { top: 1088px; }
+.father { top: 1180px; }
+
+.buttons_right {
+    position: absolute;
+    border: none;
+    background-color: transparent;
+    margin-left: 606px;
+    z-index: 1;
+    cursor: pointer;
+}
+.God_country_b { width: 163.562px; height: 28px; top: 658px; }
+.parking_lot_b { width: 120.328px; height: 28px; top: 749px; }
+.nine_ou_two_one_ou_b { width: 70.3594px; height: 28px; top: 840px; }
+.mafia_b { width: 75.7344px; height: 28px; top: 931px; }
+.looove_b { width: 95.75px; height: 28px; top: 1022px; }
+.dumbo_b { width: 87.8125px; height: 28px; top: 1113px; }
+.father_b { width: 72.3438px; height: 28px; top: 1204px; }
+
+.titles_right {
+    position: absolute;
+    font-family: 'Inter',Arial;
+    font-weight: 1000;
+    font-size: 23px;
+    margin-left: 606px;
+    white-space: nowrap;
+    color: rgba(255,255,255);
+}
+.God_country { top: 634px; }
+.Parking_lot { top: 725px; }
+.Nine_ou_two_one_ou { top: 816px; }
+.Mafia { top: 907px; }
+.Looove { top: 998px; }
+.Dumbo { top: 1088px; }
+.Father { top: 1180px; }
+
+.cvin {
+    position: absolute;
+    font-family: 'Inter',Arial;
+    font-weight: 1000;
+    font-size: 30px;
+    top: 1300px;
+    left: 650px;
+    color: rgba(255,255,255);
+}
+.pick {
+    position: absolute;
+    border: none;
+    background-color: transparent;
+    z-index: 1;
+    cursor: pointer;
+    width: 72.3438px;
+    height: 28px;
+    top: 1300px;
+    left: 650px;
+}
+.dummo {
+    display: none;
+}
+.dark {
+    position: absolute;
+    font-family: 'ComicSans',Arial;
+    font-weight: 1000;
+    font-size: 30px;
+    top: 1350px;
+    left: 650px;
+    color: rgba(255,255,255);
+}
