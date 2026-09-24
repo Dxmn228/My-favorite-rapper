@@ -127,6 +127,7 @@
 .looove { top: 996px; }
 .dumbo { top: 1088px; }
 .father { top: 1180px; }
+.dark_knight_dummo { top: 1272px; }
 
 .buttons_right {
     position: absolute;
@@ -143,6 +144,7 @@
 .looove_b { width: 95.75px; height: 28px; top: 1022px; }
 .dumbo_b { width: 87.8125px; height: 28px; top: 1113px; }
 .father_b { width: 72.3438px; height: 28px; top: 1204px; }
+.dark_knight_dummo_b { width: 220px; height: 28px; top: 1295px; }
 
 .titles_right {
     position: absolute;
@@ -160,36 +162,4 @@
 .Looove { top: 998px; }
 .Dumbo { top: 1088px; }
 .Father { top: 1180px; }
-
-.cvin {
-    position: absolute;
-    font-family: 'Inter',Arial;
-    font-weight: 1000;
-    font-size: 30px;
-    top: 1300px;
-    left: 650px;
-    color: rgba(255,255,255);
-}
-.pick {
-    position: absolute;
-    border: none;
-    background-color: transparent;
-    z-index: 1;
-    cursor: pointer;
-    width: 72.3438px;
-    height: 28px;
-    top: 1300px;
-    left: 650px;
-}
-.dummo {
-    display: none;
-}
-.dark {
-    position: absolute;
-    font-family: 'ComicSans',Arial;
-    font-weight: 1000;
-    font-size: 30px;
-    top: 1350px;
-    left: 650px;
-    color: rgba(255,255,255);
-}
+.Dark_knight_dummo { top: 1272px; }
